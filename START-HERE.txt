@@ -1,0 +1,26 @@
+DR. KHALID KHAN ZADRAN — REACT WEBSITE
+=======================================
+
+Baradar, folder ra dar VS Code baz ko.
+
+1) Terminal > New Terminal
+2) npm install
+3) npm run dev
+4) Link localhost:5173 ra dar browser baz ko.
+
+Features:
+- Home, About, Specialties, Approach, Qualifications, Gallery, Contact
+- English / Dari / Pashto (R to L supported)
+- Dark Mode / Light Mode
+- Custom moving Brain / Neural Network background VIDEO
+- 5 supplied doctor photos (local .webp)
+- Appointment form sends a drafted message via WhatsApp
+- Mobile-friendly animations and navigation
+
+MUST REVIEW BEFORE PUBLIC RELEASE:
+Doctor's degrees & association memberships should be confirmed.
+Clinic contact: +93 78 765 4751
+Clinic: Rifah Medical Complex, Kabul
+Photo usage rights: obtain permission, especially operating-room images.
+
+This is React + Vite code. No deployment or GitHub push has been done.
